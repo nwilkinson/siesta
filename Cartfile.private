@@ -1,6 +1,6 @@
 # Optional integrations
 
-github "Alamofire/Alamofire" ~> 4.0
+github "Alamofire/Alamofire" == 4.5.1
 # github "ReactiveCocoa/ReactiveCocoa" "master"  # add to Cartfile if/when it has tests
 
 # Testing
